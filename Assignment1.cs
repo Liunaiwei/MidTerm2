@@ -24,7 +24,7 @@ namespace Midterm2Assignement1
                     {
                         for (c = 0; c <= b; c++)
                         {
-                            if (a + b + c == 10)
+                            if (a + b + c == 10) //(a + b + c == m)
                             {
                                 Console.WriteLine("{0},{1},{2}", a, b, c);
                             }
